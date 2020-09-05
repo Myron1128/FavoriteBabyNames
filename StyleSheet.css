@@ -1,0 +1,52 @@
+﻿.scrollable {
+    height: 234px;
+    width:250px;
+    overflow-y: scroll;
+}
+
+th{
+    position:sticky;
+    top:0;
+    background-color:antiquewhite;
+}
+
+h1 {
+    color: antiquewhite;
+    text-align: center;
+    padding: 100px;
+   
+}
+
+table
+{
+    border: 200px;
+}
+
+
+
+.form2 {
+
+    width: 300px;
+    margin: auto;
+    border: 2px solid black;
+}
+
+.form-control{
+    padding-bottom:60px;
+}
+
+.container {
+    width: 1000px;
+    height: 500px;
+    border: 1px black;
+    margin: 0 auto;
+    position: relative;
+}
+
+.col{
+    width:250px;
+    height: 300px;
+    float: left;
+    padding: 40px;
+    margin: 10px;
+}
